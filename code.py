@@ -64,13 +64,13 @@ def main(argv: Sequence[str] | None = None) -> int:
     motivation = random.choice(MOTIVATIONS)
     joke = random.choice(LIGHT_JOKES)
 
-    print(f"\n✨ {cfg.name}, {motivation}")
-    print(f"😄 {joke}")
+    print(f"\n {cfg.name}, {motivation}")
+    print(f" {joke}")
 
     if cfg.mode == "extra":
         print(f"🎉 {random.choice(EXTRA_FUN)}")
 
-    print("\nKeep building. Keep improving. 🚀\n")
+    print("\nKeep building. Keep improving. \n")
 
     return 0
 
