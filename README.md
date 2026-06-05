@@ -1,56 +1,38 @@
-# 💻 Friendly Dev Motivation CLI
+# 💻 Dev-Motivation-CLI
 
-![Python](https://img.shields.io/badge/Python-3-blue)
-![CLI](https://img.shields.io/badge/Interface-Command%20Line-green)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
-
-A respectful and lighthearted command-line tool written in Python that prints motivational developer messages, clean coding reminders, and positive programming tips.
+A respectful and lighthearted Python CLI tool that generates motivational messages and clean coding tips for developers.
 
 ---
 
-## 📖 Overview
+## 📌 Overview
 
-Friendly Dev Motivation CLI is a small Python project designed to bring positive and professional motivation to developers directly from the terminal.
+**Dev-Motivation-CLI** is a command-line interface designed to boost developers' morale with friendly messages and coding tips. It provides a mix of motivation, gentle humor, and encouragement to keep coding fun and productive.
 
-The project focuses on clean code, respectful messages, simple command-line usage, and beginner-friendly Python structure.
-
-It is useful for practicing:
-
-- Python functions
-- Command-line arguments
-- Dataclasses
-- Random message generation
-- Clean project structure
-- Basic CLI application development
+This project is perfect for beginners, hobbyists, or anyone who wants a small interactive tool to brighten their coding sessions.
 
 ---
 
 ## ✨ Features
 
-- Personalized greeting using your name
-- Respectful developer motivation messages
-- Lighthearted and professional coding tips
-- Optional extra message mode
-- Clean terminal output
-- Beginner-friendly Python code
-- No external dependencies
+- Generate a daily motivational message.
+- Lighthearted coding jokes and tips.
+- Optional "extra" mode for bonus encouragement and fun messages.
+- Easy to run from any terminal with Python 3.
+- Fully safe and respectful content.
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3
-- argparse
-- random
-- dataclasses
-- typing
-- Command Line Interface
+- Standard library (`argparse`, `random`, `dataclasses`)
 
 ---
 
-## 🚀 How to Run
+## 🚀 Getting Started
 
-Clone the repository:
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/Wadan3/Dev-Motivation-CLI.git
+cd Dev-Motivation-CLI
