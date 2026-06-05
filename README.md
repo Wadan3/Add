@@ -1,37 +1,34 @@
-# 💻 Dev-Motivation-CLI
+# Dev-Motivation-CLI
 
-A respectful and lighthearted Python CLI tool that generates motivational messages and clean coding tips for developers.
+A lightweight, respectful, and friendly command-line tool designed to provide developers with daily motivational messages, lighthearted tips, and fun boosts while coding.
 
 ---
 
 ## 📌 Overview
 
-**Dev-Motivation-CLI** is a command-line interface designed to boost developers' morale with friendly messages and coding tips. It provides a mix of motivation, gentle humor, and encouragement to keep coding fun and productive.
+Dev-Motivation-CLI is a terminal-based utility built with Python. It delivers:
 
-This project is perfect for beginners, hobbyists, or anyone who wants a small interactive tool to brighten their coding sessions.
+- Short motivational messages to boost focus.
+- Friendly developer tips and gentle reminders.
+- Optional "extra mode" with additional encouragement.
 
----
-
-## ✨ Features
-
-- Generate a daily motivational message.
-- Lighthearted coding jokes and tips.
-- Optional "extra" mode for bonus encouragement and fun messages.
-- Easy to run from any terminal with Python 3.
-- Fully safe and respectful content.
+This tool is designed to make coding sessions more enjoyable and keep developers engaged positively.
 
 ---
 
-## 🛠️ Technologies Used
+## ⚡ Features
 
-- Python 3
-- Standard library (`argparse`, `random`, `dataclasses`)
+- 🎯 Motivational messages for every run
+- 💡 Developer-friendly tips (non-offensive, constructive)
+- 🎉 Optional extra mode for fun boosts
+- 🐍 Easy to run in Python 3
+- ✅ Simple and clean command-line interface
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Usage
 
-1. **Clone the repository:**
+Clone the repository:
 
 ```bash
 git clone https://github.com/Wadan3/Dev-Motivation-CLI.git
